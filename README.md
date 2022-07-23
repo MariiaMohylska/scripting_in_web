@@ -1,5 +1,5 @@
 # scripting_in_web
-Running project: 
+## Running project: 
 
 [Webpage](https://github.com/MariiaMohylska/scripting_in_web/blob/main/run_project_with_npm_browser.png)
 
@@ -7,7 +7,8 @@ Running project:
 
 [Commands in terminal part 2](https://github.com/MariiaMohylska/scripting_in_web/blob/main/run_project_with_npm_terminal_2.png)
 
-Compare NPM and YARN:
+## Compare NPM and YARN:
+
 Script [compare_npm_and_yarn.sh](https://github.com/MariiaMohylska/scripting_in_web/blob/main/compare_npm_and_yarn.sh) runs first project with npm and then with yarn. 
 After running script three times we have got next results:
 № | NPM | YARN | Screenshot
