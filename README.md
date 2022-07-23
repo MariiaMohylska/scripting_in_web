@@ -21,6 +21,6 @@ Before running we remove folder with project and download new one.
 After running script three times we have got next results:
 № | NPM | YARN | Screenshot
 --- | --- | --- | ---
-1 | 6s | 21s | [screenshot](https://github.com/MariiaMohylska/scripting_in_web/blob/main/first%20run%20(first%20yarn%20second%20npm).png)
+1 | 6s | 19s | [screenshot](https://github.com/MariiaMohylska/scripting_in_web/blob/main/first%20run%20(first%20yarn%20second%20npm).png)
 2 | 5s | 14s | [screenshot](https://github.com/MariiaMohylska/scripting_in_web/blob/main/second%20run%20(first%20yarn%20second%20npm).png)
 3 | 6s | 13s | [screenshot](https://github.com/MariiaMohylska/scripting_in_web/blob/main/third%20run%20(first%20yarn%20second%20npm).png)
